@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/RequestReact/static/css/main.f5915b76.chunk.css",
+    "main.js": "/RequestReact/static/js/main.7347c244.chunk.js",
+    "main.js.map": "/RequestReact/static/js/main.7347c244.chunk.js.map",
+    "runtime-main.js": "/RequestReact/static/js/runtime-main.b156ab3b.js",
+    "runtime-main.js.map": "/RequestReact/static/js/runtime-main.b156ab3b.js.map",
+    "static/css/2.658eb2da.chunk.css": "/RequestReact/static/css/2.658eb2da.chunk.css",
+    "static/js/2.a774d1cb.chunk.js": "/RequestReact/static/js/2.a774d1cb.chunk.js",
+    "static/js/2.a774d1cb.chunk.js.map": "/RequestReact/static/js/2.a774d1cb.chunk.js.map",
+    "index.html": "/RequestReact/index.html",
+    "precache-manifest.ba459360c6e7574c27dd5afb38213e43.js": "/RequestReact/precache-manifest.ba459360c6e7574c27dd5afb38213e43.js",
+    "service-worker.js": "/RequestReact/service-worker.js",
+    "static/css/2.658eb2da.chunk.css.map": "/RequestReact/static/css/2.658eb2da.chunk.css.map",
+    "static/css/main.f5915b76.chunk.css.map": "/RequestReact/static/css/main.f5915b76.chunk.css.map",
+    "static/js/2.a774d1cb.chunk.js.LICENSE.txt": "/RequestReact/static/js/2.a774d1cb.chunk.js.LICENSE.txt",
+    "static/media/booksShelfs.png": "/RequestReact/static/media/booksShelfs.d6e583ac.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b156ab3b.js",
+    "static/css/2.658eb2da.chunk.css",
+    "static/js/2.a774d1cb.chunk.js",
+    "static/css/main.f5915b76.chunk.css",
+    "static/js/main.7347c244.chunk.js"
+  ]
+}

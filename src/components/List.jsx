@@ -6,7 +6,7 @@ import ListItem from './ListItem';
 import "./style/style.css";
 import { Layout } from 'antd';
 import booksShelfs from './style/picture/booksShelfs.png'; 
-const { Header, Footer } = Layout;
+const { Header} = Layout;
 
 class List extends Component {
   state = {
@@ -78,8 +78,9 @@ class List extends Component {
 
       <div>
          <Header > 
-         <img  src={booksShelfs} style={{  height: "60" }} />
-        
+         <img  src={booksShelfs} style={{ marginLeft: "200px"}} />
+         <p   style={{ textAlign: "center"}}> made by React and me  <br /> avdeevaelena5@gmail.com  </p> 
+         
          </Header>   
       <div className="to-do-list-container">
         <div className="row">
@@ -98,10 +99,7 @@ class List extends Component {
           )}
           </button>
         </div>   
-        <Footer  className="footer-item"> made by React and me
-                    <p> avdeevaelena5@gmail.com  </p> 
-        </Footer>
-
+  
       </div>
 
       </div>
