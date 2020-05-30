@@ -1,0 +1,70 @@
+.to-do-list-container {
+    margin-top: 50px;
+  }
+  .to-do-list-item {
+    margin-top: 50px;
+    color: black;
+    transition: background-color 2s;
+  }
+  
+  .to-do-list-item h4 {
+    padding-left: 25px;
+    padding-bottom: 5px;
+    
+  }
+  
+  .to-do-list-item:hover {
+    background-color: #E98812 !important;
+  }
+  
+  .complete-todo-item {
+    float: right;
+    right: 40px;
+    background-color: rgb(160,56,24) !important;
+  }
+  
+  #todo-add-form {
+    animation: 1s;
+    animation-name: slidein;
+  }
+  
+  input#todoNext:active {
+    border-bottom: 1px solid rgb(255, 30, 135) !important;
+  }
+  
+  @keyframes slidein {
+    from {
+      opacity: 0;
+    }
+    to {
+      margin-left: 1;
+    }
+  }
+
+.footer-item {
+  color: black;
+  position: fixed;
+  left: 23px;
+  bottom: 20px;
+  padding-top: 20px;
+  margin-bottom: 0;
+  text-align: center;
+}
+
+.btn-item{
+  background-color: #E95709;
+  position: relative;
+  float: right;
+  right: 40px;
+  font-size: 1rem;
+  text-align: center;
+  text-size-adjust: 10px; 
+}
+
+.text-item{
+  color: black;
+  font-size: 2rem;
+  padding: 0 16px;
+  text-rendering: optimizeLegibility;
+  font-feature-settings: 'liga';
+}
